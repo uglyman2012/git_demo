@@ -6,13 +6,6 @@
  */
 public class Test1 {
     public static void main(String[] args) {
-        System.out.println("好好学习");
-        /**
-         * OOOOOOOO
-         */
-        /**
-         * uiuiui
-         */
-        System.out.println("jsisdf");
+
     }
 }
