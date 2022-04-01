@@ -11,6 +11,7 @@ public class Test1 {
         System.out.println("好好学习");
 
         System.out.println("jsisdf");
+        System.out.println("master第一次");
         ArrayList list=new ArrayList();
         System.out.println("sakf");
     }
